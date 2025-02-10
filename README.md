@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on zoho
 - 📫 How to reach me insta:manii.30_
 - 😄 Pronouns: ctrl+alt+success 
-- ⚡ Fun fact: im always interested in computer science feilds
+- ⚡ Fun fact: I don't like to code
+- 
 
 <!---
 mani-flac/mani-flac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
