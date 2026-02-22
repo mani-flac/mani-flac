@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mani-flac
 - 👀 I’m interested in digital marketing 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on zoho
+- 🌱 I’m currently learning to use AI tools
+
 - 📫 How to reach me insta:manii.30_
 - 😄 Pronouns: ctrl+alt+success 
 - ⚡ Fun fact: I don't like to code
