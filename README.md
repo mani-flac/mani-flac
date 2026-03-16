@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mani-flac
 - 👀 I’m interested in digital marketing 
 - 🌱 I’m currently learning to use AI tools
-- ⚡ Fun fact: I don't like to code
+
 - 
 
 <!---
